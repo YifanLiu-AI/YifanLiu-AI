@@ -11,10 +11,10 @@
       .line { stroke: #D9A2B7; }
     }
   </style>
-  <text x="0" y="24" class="muted" font-family="Helvetica Neue, Arial, sans-serif" font-size="12" letter-spacing="3">ROBOT LEARNING &amp; MANIPULATION</text>
+  <text x="0" y="24" class="muted" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="3">ROBOT LEARNING &amp; MANIPULATION</text>
   <text x="0" y="83" class="accent" font-family="Georgia, 'Times New Roman', serif" font-size="53" font-weight="700" letter-spacing="-1.4">Yifan Liu</text>
-  <text x="1" y="117" class="muted" font-family="Helvetica Neue, Arial, sans-serif" font-size="17">Embodied AI · Bimanual Manipulation · Dexterous Manipulation</text>
-  <text x="1" y="145" class="muted" font-family="Helvetica Neue, Arial, sans-serif" font-size="14">Undergraduate · South China University of Technology</text>
+  <text x="1" y="117" class="muted" font-family="Georgia, 'Times New Roman', serif" font-size="17">Embodied AI · Bimanual Manipulation · Dexterous Manipulation</text>
+  <text x="1" y="145" class="muted" font-family="Georgia, 'Times New Roman', serif" font-size="14">Undergraduate · South China University of Technology</text>
   <g transform="translate(805 65)">
     <rect x="-37" y="-37" width="74" height="74" rx="3" fill="none" class="line" stroke-width="1" opacity="0.4"/>
     <text x="0" y="13" text-anchor="middle" class="accent" font-family="Georgia, serif" font-size="34">YL</text>
