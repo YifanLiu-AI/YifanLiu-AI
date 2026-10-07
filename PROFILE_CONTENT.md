@@ -18,12 +18,12 @@ My work focuses on robot learning, simulation-to-real workflows, and bimanual an
 
 <img src="assets/section-experience.svg?v=serif-3" alt="Research &amp; Internship Experience" width="900">
 
-<img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/slai-logo-balanced.png" alt="SLAI" height="28"> &nbsp; **Shenzhen Loop Area Institute (SLAI) · RAPID Lab**
+<img src="https://raw.githubusercontent.com/YifanLiu-AI/wui-homepage/main/assets/img/slai-logo-balanced.png" alt="SLAI" height="28"> &nbsp; **Shenzhen Loop Area Institute (SLAI) · RAPID Lab**
 
 Research Assistant Intern &nbsp; · &nbsp; **June–September 2026**  
 Advisor: Prof. Hui Cheng, Sun Yat-sen University.
 
-<img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/miaa-logo.webp" alt="MIAA Lab" height="28"> &nbsp; **South China University of Technology · MIAA Lab**
+<img src="https://raw.githubusercontent.com/YifanLiu-AI/wui-homepage/main/assets/img/miaa-logo.webp" alt="MIAA Lab" height="28"> &nbsp; **South China University of Technology · MIAA Lab**
 
 Student &nbsp; · &nbsp; **November 2025–May 2026**  
 Advisor: Assoc. Prof. Huiping Zhuang, Shien-Ming Wu School of Intelligent Engineering.
@@ -32,7 +32,7 @@ Advisor: Assoc. Prof. Huiping Zhuang, Shien-Ming Wu School of Intelligent Engine
 
 <img src="assets/section-projects.svg?v=serif-3" alt="Selected Research Projects" width="900">
 
-### <img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/neurips-logo.webp" alt="NeurIPS" height="28"> &nbsp; NeurIPS 2026 RoboSyn Challenge
+### <img src="https://raw.githubusercontent.com/YifanLiu-AI/wui-homepage/main/assets/img/neurips-logo.webp" alt="NeurIPS" height="28"> &nbsp; NeurIPS 2026 RoboSyn Challenge
 **August–October 2026 · Competition in progress**  
 Zepeng Lin, **Yifan Liu**, Wei Shan, Yinuo Ge, Muyang Li  
 [Challenge website](https://robosyn-bench.net/)
@@ -42,7 +42,7 @@ Zepeng Lin, **Yifan Liu**, Wei Shan, Yinuo Ge, Muyang Li
 - **Item Assembly:** let a planner take over after both objects were securely grasped, lifted, and aligned. Mapped object-space waypoints to end-effector targets using the current grasp transforms. In an initial comparison on 20 common scenarios, success increased from **1/20 to 15/20**.
 - **Manipulate Pipette:** added a downward waypoint correction for insufficient press stroke; evaluation on 20 fixed scenarios improved success rate from **75% to 90%**.
 
-### <img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/icra27-logo.webp" alt="ICRA 2027" height="28"> &nbsp; ICRA 2027 · TwinPath Wrist
+### <img src="https://raw.githubusercontent.com/YifanLiu-AI/wui-homepage/main/assets/img/icra27-logo.webp" alt="ICRA 2027" height="28"> &nbsp; ICRA 2027 · TwinPath Wrist
 **June–September 2026 · Second author · Under review**  
 Haitao Jiang, **Yifan Liu**, Yanbin Chang, Wei Zhang, Xiaogang Xiong, Hui Cheng†
 
@@ -51,10 +51,10 @@ Haitao Jiang, **Yifan Liu**, Yanbin Chang, Wei Zhang, Xiaogang Xiong, Hui Cheng�
 - Combined stored hand gestures, keyboard control, saved key poses, and motion planning; reserved manual teleoperation for difficult subtasks. Added visualization and hand-temperature alerts. Inexperienced operators could collect **over 40 successful demonstrations within half an hour**.
 - Tested camera inputs individually, then added perturbations and camera/state dropout during training; the retrained policy completed the pick test task.
 
-### <img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/icra26-logo.webp" alt="ICRA 2026" height="28"> &nbsp; ICRA 2026 LeHome Challenge
+### <img src="https://raw.githubusercontent.com/YifanLiu-AI/wui-homepage/main/assets/img/icra26-logo.webp" alt="ICRA 2026" height="28"> &nbsp; ICRA 2026 LeHome Challenge
 **November 2025–May 2026 · Ebtech-MIAA**  
 **Initial submission: global #2 · Final rank: global #17**  
-[Challenge website](https://lehome-challenge.com/) · [Code](https://github.com/sudo-yf/lehome-challenge)
+[Challenge website](https://lehome-challenge.com/) · [Code](https://github.com/YifanLiu-AI/lehome-challenge)
 
 - Trained and evaluated policies including Diffusion Policy and X-VLA, selecting X-VLA based on compute cost and baseline success rates.
 - Built an automated training/evaluation pipeline driven by **closed-loop success rate**, rather than training loss alone. At 30k steps and 60 evaluation episodes per configuration, `max_num_transforms=0/1/2/3` yielded **76.67% / 86.67% / 80.00% / 78.33%**.
@@ -74,7 +74,7 @@ Haitao Jiang, **Yifan Liu**, Yanbin Chang, Wei Zhang, Xiaogang Xiong, Hui Cheng�
 
 <img src="assets/section-education.svg?v=serif-3" alt="Education &amp; Honors" width="900">
 
-<img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/scut-emblem.png" alt="SCUT" height="28"> &nbsp; **South China University of Technology**  
+<img src="https://raw.githubusercontent.com/YifanLiu-AI/wui-homepage/main/assets/img/scut-emblem.png" alt="SCUT" height="28"> &nbsp; **South China University of Technology**  
 School of Mechanical and Automotive Engineering · B.Eng. in progress  
 **September 2024–June 2028 (expected) · GPA: 3.17/4.00**
 
