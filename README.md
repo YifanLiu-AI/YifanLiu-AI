@@ -1,53 +1,89 @@
-<h1 align="center">Hi, I'm Yifan Liu</h1>
+<h1 align="center">Yifan Liu</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=800&color=6EA8FE&center=true&vCenter=true&width=760&lines=Safety+Engineering+%40+SCUT;Embodied+AI+%2F+VLA+Models+%2F+Robot+Data+Flywheel;Bimanual+and+General-Purpose+Manipulation" alt="Typing SVG" />
-  </a>
+  Undergraduate at South China University of Technology<br>
+  <b>Embodied AI · Bimanual Manipulation · Dexterous Manipulation</b>
 </p>
 
 <p align="center">
   <a href="https://wui.me">Website</a> ·
   <a href="https://wui.me/blog">Blog</a> ·
-  <a href="https://github.com/sudo-yf">GitHub</a> ·
-  <a href="mailto:addshiyi@gmail.com">Email</a>
+  <a href="mailto:shiyi20060618@gmail.com">Email</a>
 </p>
-
----
 
 ## About
 
-<img align="right" width="250" src="https://chiikawa.r2.1591420.xyz/images/default/04.gif" alt="Chiikawa animation" />
+I'm a B.Eng. student in the **School of Mechanical and Automotive Engineering, South China University of Technology (SCUT)**, with an expected graduation date of **June 2028**.
 
-I'm an undergraduate student at **South China University of Technology (SCUT)**, majoring in **Safety Engineering**.
+My work focuses on robot learning, simulation-to-real workflows, and bimanual and dexterous manipulation. I build and evaluate policies, investigate task failures, and develop teleoperation and rollout-data pipelines.
 
-Since October 2025, I have been working on embodied AI and Vision-Language-Action models in Associate Professor Huiping Zhuang's research group at SCUT.
+## Research and Internship Experience
 
-## Selected Projects
+- **Shenzhen Loop Area Institute (SLAI) · RAPID Lab** — Research Assistant Intern, **June–September 2026**  
+  Advisor: Prof. Hui Cheng, Sun Yat-sen University.
+- **South China University of Technology · MIAA Lab** — Student, **November 2025–May 2026**  
+  Advisor: Assoc. Prof. Huiping Zhuang, Shien-Ming Wu School of Intelligent Engineering.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <details>
-        <summary>
-          <b><a href="https://github.com/sudo-yf/lehome-challenge">ICRA 2026 LeHome Challenge</a></b><br>
-          <sub>VLA policies · LeRobot data · bimanual garment manipulation</sub>
-        </summary>
-        <br>
-        <p>VLA policy reproduction, training, evaluation, and data engineering for bimanual garment manipulation.</p>
-        <ul>
-          <li>Reproduced and evaluated <b>ACT, Diffusion Policy, SmolVLA, X-VLA, pi0, and KAI0</b>.</li>
-          <li>Ran systematic W&B experiments on learning rates, training steps, checkpoints, pretrained weights, and image augmentation.</li>
-          <li>Improved the Top-Long success rate from <b>76.67% to 86.67%</b> under a unified 60-episode evaluation.</li>
-          <li>Built an end-to-end data flywheel covering rollout, trajectory filtering, LeRobot Dataset merging, and retraining.</li>
-          <li>Curated <b>291 high-quality successful trajectories</b>.</li>
-          <li>Fixed <code>file_index</code> misalignment and missing <code>finalize()</code> issues that caused Parquet and dataset merging failures.</li>
-          <li>The team reached a final success rate of <b>59.25%</b> and ranked <b>17th globally</b> in the Simulation Track.</li>
-        </ul>
-      </details>
-    </td>
-    <td width="50%" valign="top">
-      <details>
+## Selected Research Projects
+
+### NeurIPS 2026 RoboSyn Challenge
+**August–October 2026 · Competition in progress**  
+Zepeng Lin, **Yifan Liu**, Wei Shan, Yinuo Ge, Muyang Li  
+[Challenge website](https://robosyn-bench.net/)
+
+- Trained π0.5 baselines for 10 bimanual tasks using four H100 GPUs and an RTX 4090; added sensors and subtask checks to diagnose low-success-rate tasks.
+- **Mixer Operating:** traced press failures through raw demonstrations, normalization, and control. Removed 195 of 1,000 demonstrations incompatible with current joint limits and applied ISR-based bimanual frame selection, reducing training sampling points by **about 77%**. Historical optimization improved success rate from **83% to 93%**; this is not an isolated ISR ablation.
+- **Item Assembly:** let a planner take over after both objects were securely grasped, lifted, and aligned. Mapped object-space waypoints to end-effector targets using the current grasp transforms. In an initial comparison on 20 common scenarios, success increased from **1/20 to 15/20**.
+- **Manipulate Pipette:** added a downward waypoint correction for insufficient press stroke; evaluation on 20 fixed scenarios improved success rate from **75% to 90%**.
+
+### ICRA 2027 · TwinPath Wrist
+**June–September 2026 · Second author · Under review**  
+Haitao Jiang, **Yifan Liu**, Yanbin Chang, Wei Zhang, Xiaogang Xiong, Hui Cheng†
+
+- Independently built the teleoperation, data-collection, and imitation-learning workflows for UR5e, a custom wrist, and four end-effector configurations, supporting fixed-versus-enabled wrist comparisons.
+- Integrated SpaceMouse control of UR5e, wuji-retargeting for the dexterous hand, and a senior lab member's custom master wrist for the follower wrist.
+- Combined stored hand gestures, keyboard control, saved key poses, and motion planning; reserved manual teleoperation for difficult subtasks. Added visualization and hand-temperature alerts. Inexperienced operators could collect **over 40 successful demonstrations within half an hour**.
+- Tested camera inputs individually, then added perturbations and camera/state dropout during training; the retrained policy completed the pick test task.
+
+### ICRA 2026 LeHome Challenge
+**November 2025–May 2026 · Ebtech-MIAA**  
+**Initial submission: global #2 · Final rank: global #17**  
+[Challenge website](https://lehome-challenge.com/) · [Code](https://github.com/sudo-yf/lehome-challenge)
+
+- Trained and evaluated policies including Diffusion Policy and X-VLA, selecting X-VLA based on compute cost and baseline success rates.
+- Built an automated training/evaluation pipeline driven by **closed-loop success rate**, rather than training loss alone. At 30k steps and 60 evaluation episodes per configuration, `max_num_transforms=0/1/2/3` yielded **76.67% / 86.67% / 80.00% / 78.33%**.
+- Independently developed a multi-round RFT data flywheel for saving successful rollouts, filtering trajectories, merging datasets, and retraining. With about 100 rollout trajectories, observed success-rate gains of **20% on the training set and 2% on the test set**.
+- Clustered successful episodes by completion time and reward to reduce duplicate data injection while retaining longer trajectories containing corrections.
+
+## Technical Skills
+
+| Area | Tools and experience |
+| :--- | :--- |
+| Simulation & learning | Isaac Lab / Isaac Sim · π0.5 · Diffusion Policy · SFT · RFT · Data Flywheel |
+| Real-robot workflows | Real-to-Real · Real-to-Sim · SpaceMouse Teleoperation & Data Collection · dex-retargeting |
+| Robot platforms | LeRobot SO-101 · AgileX PiPER · UR5e · Wuji Hand1 |
+| Agent collaboration | Claude Code · Codex |
+
+## Education & Honors
+
+**South China University of Technology**  
+School of Mechanical and Automotive Engineering · B.Eng. in progress  
+**September 2024–June 2028 (expected) · GPA: 3.17/4.00**
+
+Core courses: Linear Algebra, Calculus, Probability Theory, Python Programming, Mechanical Principles and Design Fundamentals.
+
+- **2026:** National Third Prize, National Safety Science and Engineering Practice Innovation Competition, Software Track — Team Lead.
+- **2025:** Guangdong Region Third Prize, Shenzhen Cup Mathematical Modeling Challenge — Team Lead.
+- **2025:** Guangdong Merit Award, National Undergraduate Mathematical Contest in Modeling — Core Member.
+- **2026:** Computer Science Student Research Program (SRP) — Core Member.
+- **2026:** Undergraduate Innovation Training Project — **National-level project approval**, Core Member.
+- **2025–2026:** Undergraduate Innovation Training Project — **National-level project approval**, Core Member.
+
+## Other Projects
+
+<img align="right" width="180" src="https://chiikawa.r2.1591420.xyz/images/default/04.gif" alt="Chiikawa animation" />
+
+<details>
         <summary>
           <b><a href="https://github.com/sudo-yf/DeepLabV3Plus">Weak-Boundary Smoke Semantic Segmentation</a></b><br>
           <sub>Fire-safety vision · smoke datasets · DeepLabV3+</sub>
@@ -62,11 +98,8 @@ Since October 2025, I have been working on embodied AI and Vision-Language-Actio
           <li>Introduced CE and Focal Tversky Loss into DeepLabV3+, improving mIoU from <b>78.4% to 82.4%</b>.</li>
         </ul>
       </details>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <details>
+
+<details>
         <summary>
           <b>Intelligent Laboratory Chemical Management System</b><br>
           <sub>Face recognition · OCR · inventory audit · <a href="https://scut.leai.me">scut.leai.me</a></sub>
@@ -82,9 +115,8 @@ Since October 2025, I have been working on embodied AI and Vision-Language-Actio
           <li>Deployed online at <a href="https://scut.leai.me">scut.leai.me</a>.</li>
         </ul>
       </details>
-    </td>
-    <td width="50%" valign="top">
-      <details>
+
+<details>
         <summary>
           <b><a href="https://github.com/Argus-Agent/argus">Argus Dual-Agent System</a></b><br>
           <sub>GUI Agent · Code Agent · computer-use automation</sub>
@@ -100,28 +132,9 @@ Since October 2025, I have been working on embodied AI and Vision-Language-Actio
           <li>Open-sourced the project and released an executable version.</li>
         </ul>
       </details>
-    </td>
-  </tr>
-</table>
-
-## Technical Skills
-
-```text
-Programming      Python · PyTorch · Linux · Git
-Robot Learning   LeRobot · Isaac Lab · Isaac Sim · real-robot data collection
-VLA Policies     ACT · Diffusion Policy · SmolVLA · X-VLA · pi0 · KAI0
-Agentic Coding   Claude Code · Codex · Cursor
-```
-
-## Education
-
-**South China University of Technology**<br>
-B.Eng. Candidate in Safety Engineering<br>
-September 2024 - June 2028
-
-Relevant coursework: Linear Algebra, Calculus, Python Programming, Introduction to Artificial Intelligence.
 
 ## GitHub
+
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=sudo-yf&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
