@@ -1,33 +1,36 @@
-<p align="center">
+<p>
   <img src="assets/header.svg" alt="Yifan Liu — Embodied AI, Bimanual Manipulation, Dexterous Manipulation" width="900">
 </p>
 
-<p align="center">
-  <a href="https://wui.me"><img src="https://img.shields.io/badge/Website-wui.me-873C55?style=flat-square&amp;logo=safari&amp;logoColor=white" alt="Website: wui.me"></a>
-  <a href="https://wui.me/blog"><img src="https://img.shields.io/badge/Research-Blog-873C55?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" alt="Research blog"></a>
-  <a href="mailto:shiyi20060618@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-873C55?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email: shiyi20060618@gmail.com"></a>
+<p>
+  <samp><a href="https://wui.me">wui.me ↗</a> &nbsp; / &nbsp; <a href="https://wui.me/blog">research blog ↗</a> &nbsp; / &nbsp; <a href="mailto:shiyi20060618@gmail.com">email ↗</a></samp>
 </p>
 
-## About
+<br>
+
+<img src="assets/section-about.svg" alt="About" width="900">
 
 I'm a B.Eng. student in the **School of Mechanical and Automotive Engineering, South China University of Technology (SCUT)**, with an expected graduation date of **June 2028**.
 
 My work focuses on robot learning, simulation-to-real workflows, and bimanual and dexterous manipulation. I build and evaluate policies, investigate task failures, and develop teleoperation and rollout-data pipelines.
 
-## Research & Internship Experience
+<br>
 
-<table>
-  <tr>
-    <td align="center" width="110"><img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/slai-logo-balanced.png" alt="SLAI" width="90"></td>
-    <td><b>Shenzhen Loop Area Institute (SLAI) · RAPID Lab</b><br>Research Assistant Intern · <b>June–September 2026</b><br>Advisor: Prof. Hui Cheng, Sun Yat-sen University.</td>
-  </tr>
-  <tr>
-    <td align="center" width="110"><img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/miaa-logo.webp" alt="MIAA Lab" width="76"></td>
-    <td><b>South China University of Technology · MIAA Lab</b><br>Student · <b>November 2025–May 2026</b><br>Advisor: Assoc. Prof. Huiping Zhuang, Shien-Ming Wu School of Intelligent Engineering.</td>
-  </tr>
-</table>
+<img src="assets/section-experience.svg" alt="Research &amp; Internship Experience" width="900">
 
-## Selected Research Projects
+<img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/slai-logo-balanced.png" alt="SLAI" height="28"> &nbsp; **Shenzhen Loop Area Institute (SLAI) · RAPID Lab**
+
+Research Assistant Intern &nbsp; · &nbsp; **June–September 2026**  
+Advisor: Prof. Hui Cheng, Sun Yat-sen University.
+
+<img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/miaa-logo.webp" alt="MIAA Lab" height="28"> &nbsp; **South China University of Technology · MIAA Lab**
+
+Student &nbsp; · &nbsp; **November 2025–May 2026**  
+Advisor: Assoc. Prof. Huiping Zhuang, Shien-Ming Wu School of Intelligent Engineering.
+
+<br>
+
+<img src="assets/section-projects.svg" alt="Selected Research Projects" width="900">
 
 ### <img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/neurips-logo.webp" alt="NeurIPS" height="28"> &nbsp; NeurIPS 2026 RoboSyn Challenge
 **August–October 2026 · Competition in progress**  
@@ -58,16 +61,18 @@ Haitao Jiang, **Yifan Liu**, Yanbin Chang, Wei Zhang, Xiaogang Xiong, Hui Cheng�
 - Independently developed a multi-round RFT data flywheel for saving successful rollouts, filtering trajectories, merging datasets, and retraining. With about 100 rollout trajectories, observed success-rate gains of **20% on the training set and 2% on the test set**.
 - Clustered successful episodes by completion time and reward to reduce duplicate data injection while retaining longer trajectories containing corrections.
 
-## Technical Skills
+<br>
 
-| Area | Tools and experience |
-| :--- | :--- |
-| Simulation & learning | Isaac Lab / Isaac Sim · π0.5 · Diffusion Policy · SFT · RFT · Data Flywheel |
-| Real-robot workflows | Real-to-Real · Real-to-Sim · SpaceMouse Teleoperation & Data Collection · dex-retargeting |
-| Robot platforms | LeRobot SO-101 · AgileX PiPER · UR5e · Wuji Hand1 |
-| Agent collaboration | Claude Code · Codex |
+<img src="assets/section-skills.svg" alt="Technical Skills" width="900">
 
-## Education & Honors
+- **Simulation & learning** — Isaac Lab / Isaac Sim · π0.5 · Diffusion Policy · SFT · RFT · Data Flywheel
+- **Real-robot workflows** — Real-to-Real · Real-to-Sim · SpaceMouse Teleoperation & Data Collection · dex-retargeting
+- **Robot platforms** — LeRobot SO-101 · AgileX PiPER · UR5e · Wuji Hand1
+- **Agent collaboration** — Claude Code · Codex
+
+<br>
+
+<img src="assets/section-education.svg" alt="Education &amp; Honors" width="900">
 
 <img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/scut-emblem.png" alt="SCUT" height="28"> &nbsp; **South China University of Technology**  
 School of Mechanical and Automotive Engineering · B.Eng. in progress  
