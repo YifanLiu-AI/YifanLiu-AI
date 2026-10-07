@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="156" viewBox="0 0 900 156" role="img" aria-labelledby="title description">
+  <title id="title">Yifan Liu</title>
+  <desc id="description">Embodied AI, bimanual manipulation and dexterous manipulation. Undergraduate at South China University of Technology.</desc>
+  <defs>
+    <linearGradient id="wash" x1="0" x2="1">
+      <stop offset="0" stop-color="#873C55" stop-opacity="0.03"/>
+      <stop offset="0.5" stop-color="#873C55" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#873C55" stop-opacity="0.03"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="154" rx="12" fill="url(#wash)"/>
+  <text x="450" y="65" text-anchor="middle" fill="#873C55" font-family="Georgia, 'Times New Roman', serif" font-size="43" font-weight="700">Yifan Liu</text>
+  <text x="450" y="99" text-anchor="middle" fill="#873C55" font-family="Arial, Helvetica, sans-serif" font-size="17">Embodied AI · Bimanual Manipulation · Dexterous Manipulation</text>
+  <text x="450" y="128" text-anchor="middle" fill="#777777" font-family="Arial, Helvetica, sans-serif" font-size="14">South China University of Technology · Undergraduate Researcher</text>
+</svg>
