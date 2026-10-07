@@ -1,14 +1,11 @@
-<h1 align="center">Yifan Liu</h1>
-
 <p align="center">
-  Undergraduate at South China University of Technology<br>
-  <b>Embodied AI · Bimanual Manipulation · Dexterous Manipulation</b>
+  <img src="assets/header.svg" alt="Yifan Liu — Embodied AI, Bimanual Manipulation, Dexterous Manipulation" width="900">
 </p>
 
 <p align="center">
-  <a href="https://wui.me">Website</a> ·
-  <a href="https://wui.me/blog">Blog</a> ·
-  <a href="mailto:shiyi20060618@gmail.com">Email</a>
+  <a href="https://wui.me"><img src="https://img.shields.io/badge/Website-wui.me-873C55?style=flat-square&amp;logo=safari&amp;logoColor=white" alt="Website: wui.me"></a>
+  <a href="https://wui.me/blog"><img src="https://img.shields.io/badge/Research-Blog-873C55?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" alt="Research blog"></a>
+  <a href="mailto:shiyi20060618@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-873C55?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email: shiyi20060618@gmail.com"></a>
 </p>
 
 ## About
@@ -17,16 +14,22 @@ I'm a B.Eng. student in the **School of Mechanical and Automotive Engineering, S
 
 My work focuses on robot learning, simulation-to-real workflows, and bimanual and dexterous manipulation. I build and evaluate policies, investigate task failures, and develop teleoperation and rollout-data pipelines.
 
-## Research and Internship Experience
+## Research & Internship Experience
 
-- **Shenzhen Loop Area Institute (SLAI) · RAPID Lab** — Research Assistant Intern, **June–September 2026**  
-  Advisor: Prof. Hui Cheng, Sun Yat-sen University.
-- **South China University of Technology · MIAA Lab** — Student, **November 2025–May 2026**  
-  Advisor: Assoc. Prof. Huiping Zhuang, Shien-Ming Wu School of Intelligent Engineering.
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/slai-logo-balanced.png" alt="SLAI" width="90"></td>
+    <td><b>Shenzhen Loop Area Institute (SLAI) · RAPID Lab</b><br>Research Assistant Intern · <b>June–September 2026</b><br>Advisor: Prof. Hui Cheng, Sun Yat-sen University.</td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/miaa-logo.webp" alt="MIAA Lab" width="76"></td>
+    <td><b>South China University of Technology · MIAA Lab</b><br>Student · <b>November 2025–May 2026</b><br>Advisor: Assoc. Prof. Huiping Zhuang, Shien-Ming Wu School of Intelligent Engineering.</td>
+  </tr>
+</table>
 
 ## Selected Research Projects
 
-### NeurIPS 2026 RoboSyn Challenge
+### <img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/neurips-logo.webp" alt="NeurIPS" height="28"> &nbsp; NeurIPS 2026 RoboSyn Challenge
 **August–October 2026 · Competition in progress**  
 Zepeng Lin, **Yifan Liu**, Wei Shan, Yinuo Ge, Muyang Li  
 [Challenge website](https://robosyn-bench.net/)
@@ -36,7 +39,7 @@ Zepeng Lin, **Yifan Liu**, Wei Shan, Yinuo Ge, Muyang Li
 - **Item Assembly:** let a planner take over after both objects were securely grasped, lifted, and aligned. Mapped object-space waypoints to end-effector targets using the current grasp transforms. In an initial comparison on 20 common scenarios, success increased from **1/20 to 15/20**.
 - **Manipulate Pipette:** added a downward waypoint correction for insufficient press stroke; evaluation on 20 fixed scenarios improved success rate from **75% to 90%**.
 
-### ICRA 2027 · TwinPath Wrist
+### <img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/icra27-logo.webp" alt="ICRA 2027" height="28"> &nbsp; ICRA 2027 · TwinPath Wrist
 **June–September 2026 · Second author · Under review**  
 Haitao Jiang, **Yifan Liu**, Yanbin Chang, Wei Zhang, Xiaogang Xiong, Hui Cheng†
 
@@ -45,7 +48,7 @@ Haitao Jiang, **Yifan Liu**, Yanbin Chang, Wei Zhang, Xiaogang Xiong, Hui Cheng�
 - Combined stored hand gestures, keyboard control, saved key poses, and motion planning; reserved manual teleoperation for difficult subtasks. Added visualization and hand-temperature alerts. Inexperienced operators could collect **over 40 successful demonstrations within half an hour**.
 - Tested camera inputs individually, then added perturbations and camera/state dropout during training; the retrained policy completed the pick test task.
 
-### ICRA 2026 LeHome Challenge
+### <img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/icra26-logo.webp" alt="ICRA 2026" height="28"> &nbsp; ICRA 2026 LeHome Challenge
 **November 2025–May 2026 · Ebtech-MIAA**  
 **Initial submission: global #2 · Final rank: global #17**  
 [Challenge website](https://lehome-challenge.com/) · [Code](https://github.com/sudo-yf/lehome-challenge)
@@ -66,15 +69,15 @@ Haitao Jiang, **Yifan Liu**, Yanbin Chang, Wei Zhang, Xiaogang Xiong, Hui Cheng�
 
 ## Education & Honors
 
-**South China University of Technology**  
+<img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/scut-emblem.png" alt="SCUT" height="28"> &nbsp; **South China University of Technology**  
 School of Mechanical and Automotive Engineering · B.Eng. in progress  
 **September 2024–June 2028 (expected) · GPA: 3.17/4.00**
 
 Core courses: Linear Algebra, Calculus, Probability Theory, Python Programming, Mechanical Principles and Design Fundamentals.
 
-- **2026:** National Third Prize, National Safety Science and Engineering Practice Innovation Competition, Software Track — Team Lead.
-- **2025:** Guangdong Region Third Prize, Shenzhen Cup Mathematical Modeling Challenge — Team Lead.
-- **2025:** Guangdong Merit Award, National Undergraduate Mathematical Contest in Modeling — Core Member.
+- **2026:** **National Third Prize**, National Safety Science and Engineering Practice Innovation Competition, Software Track — Team Lead.
+- **2025:** **Guangdong Region Third Prize**, Shenzhen Cup Mathematical Modeling Challenge — Team Lead.
+- **2025:** **Guangdong Merit Award**, National Undergraduate Mathematical Contest in Modeling — Core Member.
 - **2026:** Computer Science Student Research Program (SRP) — Core Member.
 - **2026:** Undergraduate Innovation Training Project — **National-level project approval**, Core Member.
 - **2025–2026:** Undergraduate Innovation Training Project — **National-level project approval**, Core Member.
