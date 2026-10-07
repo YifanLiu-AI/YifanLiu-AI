@@ -1,5 +1,5 @@
 <p>
-  <img src="assets/header.svg?v=editorial-2" alt="Yifan Liu — Embodied AI, Bimanual Manipulation, Dexterous Manipulation" width="900">
+  <img src="assets/header.svg?v=serif-3" alt="Yifan Liu — Embodied AI, Bimanual Manipulation, Dexterous Manipulation" width="900">
 </p>
 
 <p>
@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="assets/section-about.svg" alt="About" width="900">
+<img src="assets/section-about.svg?v=serif-3" alt="About" width="900">
 
 I'm a B.Eng. student in the **School of Mechanical and Automotive Engineering, South China University of Technology (SCUT)**, with an expected graduation date of **June 2028**.
 
@@ -16,7 +16,7 @@ My work focuses on robot learning, simulation-to-real workflows, and bimanual an
 
 <br>
 
-<img src="assets/section-experience.svg" alt="Research &amp; Internship Experience" width="900">
+<img src="assets/section-experience.svg?v=serif-3" alt="Research &amp; Internship Experience" width="900">
 
 <img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/slai-logo-balanced.png" alt="SLAI" height="28"> &nbsp; **Shenzhen Loop Area Institute (SLAI) · RAPID Lab**
 
@@ -30,7 +30,7 @@ Advisor: Assoc. Prof. Huiping Zhuang, Shien-Ming Wu School of Intelligent Engine
 
 <br>
 
-<img src="assets/section-projects.svg" alt="Selected Research Projects" width="900">
+<img src="assets/section-projects.svg?v=serif-3" alt="Selected Research Projects" width="900">
 
 ### <img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/neurips-logo.webp" alt="NeurIPS" height="28"> &nbsp; NeurIPS 2026 RoboSyn Challenge
 **August–October 2026 · Competition in progress**  
@@ -63,7 +63,7 @@ Haitao Jiang, **Yifan Liu**, Yanbin Chang, Wei Zhang, Xiaogang Xiong, Hui Cheng�
 
 <br>
 
-<img src="assets/section-skills.svg" alt="Technical Skills" width="900">
+<img src="assets/section-skills.svg?v=serif-3" alt="Technical Skills" width="900">
 
 - **Simulation & learning** — Isaac Lab / Isaac Sim · π0.5 · Diffusion Policy · SFT · RFT · Data Flywheel
 - **Real-robot workflows** — Real-to-Real · Real-to-Sim · SpaceMouse Teleoperation & Data Collection · dex-retargeting
@@ -72,7 +72,7 @@ Haitao Jiang, **Yifan Liu**, Yanbin Chang, Wei Zhang, Xiaogang Xiong, Hui Cheng�
 
 <br>
 
-<img src="assets/section-education.svg" alt="Education &amp; Honors" width="900">
+<img src="assets/section-education.svg?v=serif-3" alt="Education &amp; Honors" width="900">
 
 <img src="https://raw.githubusercontent.com/sudo-yf/wui-homepage/main/assets/img/scut-emblem.png" alt="SCUT" height="28"> &nbsp; **South China University of Technology**  
 School of Mechanical and Automotive Engineering · B.Eng. in progress  
