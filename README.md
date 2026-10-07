@@ -1,4 +1,4 @@
-<p><img src="assets/header-rose-banner.svg" alt="Yifan Liu — Robot learning and manipulation" width="900"></p>
+<p><img src="assets/header-pop-banner.svg" alt="Yifan Liu — Robot learning and manipulation" width="900"></p>
 
 <p><a href="https://wui.me"><img src="assets/serif-compact/link-website.svg" alt="wui.me" height="20"></a> &nbsp; <a href="https://wui.me/blog"><img src="assets/serif-compact/link-blog.svg" alt="Research blog" height="20"></a> &nbsp; <a href="mailto:shiyi20060618@gmail.com"><img src="assets/serif-compact/link-email.svg" alt="Email" height="20"></a></p>
 
