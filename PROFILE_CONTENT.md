@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <samp><a href="https://wui.me">wui.me ↗</a> &nbsp; / &nbsp; <a href="https://wui.me/blog">research blog ↗</a> &nbsp; / &nbsp; <a href="mailto:shiyi20060618@gmail.com">email ↗</a></samp>
+  <samp><a href="https://wui.me">wui.me ↗</a> &nbsp; / &nbsp; <a href="https://wui.me/blog">research blog ↗</a> &nbsp; / &nbsp; <a href="mailto:yifanliu.ai@gmail.com">email ↗</a></samp>
 </p>
 
 <br>
