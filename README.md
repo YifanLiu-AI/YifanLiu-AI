@@ -1,5 +1,5 @@
 <p>
-  <img src="assets/header.svg" alt="Yifan Liu — Embodied AI, Bimanual Manipulation, Dexterous Manipulation" width="900">
+  <img src="assets/header.svg?v=editorial-2" alt="Yifan Liu — Embodied AI, Bimanual Manipulation, Dexterous Manipulation" width="900">
 </p>
 
 <p>
