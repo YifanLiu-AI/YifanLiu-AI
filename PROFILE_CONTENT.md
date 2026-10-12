@@ -35,7 +35,7 @@ Advisor: Assoc. Prof. Huiping Zhuang, Shien-Ming Wu School of Intelligent Engine
 ### NeurIPS 2026 RoboSyn Challenge
 **August–October 2026 · Ongoing**  
 Zepeng Lin, Yifan Liu, Wei Shan, Yinuo Ge, Muyang Li
-[Challenge website](https://robosyn-bench.net/) · [Code (private)](https://github.com/innovationasuna/RoboSynChallenge_MIAA-HCC) · [Checkpoints](https://huggingface.co/innovationasuna/robosynchallenge-checkpoint)
+[Challenge website](https://robosyn-bench.net/) · [Code](https://github.com/innovationasuna/RoboSynChallenge_MIAA-HCC) · [Checkpoints](https://huggingface.co/innovationasuna/robosynchallenge-checkpoint)
 
 - **Synthetic trajectory-driven bimanual manipulation**: The challenge provides 1,000 synthetic demonstrations for each of 10 tasks; the organizers introduce domain randomization during training and evaluation to reduce the sim-to-real gap.
 - **Failure-stage diagnosis**: Trained π0.5 baselines across all 10 tasks using four H100 GPUs and an RTX 4090. Sparse rewards made failure stages difficult to identify; added rollout sensors and subtask checks to localize the main failures in low-success-rate tasks.
