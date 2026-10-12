@@ -35,7 +35,7 @@ Advisor: Assoc. Prof. Huiping Zhuang, Shien-Ming Wu School of Intelligent Engine
 ### NeurIPS 2026 RoboSyn Challenge
 **August–October 2026 · Ongoing**  
 Zepeng Lin, Yifan Liu, Wei Shan, Yinuo Ge, Muyang Li
-[Challenge website](https://robosyn-bench.net/)
+[Challenge website](https://robosyn-bench.net/) · [Code (private)](https://github.com/innovationasuna/RoboSynChallenge_MIAA-HCC) · [Checkpoints](https://huggingface.co/innovationasuna/robosynchallenge-checkpoint)
 
 - **Synthetic trajectory-driven bimanual manipulation**: The challenge provides 1,000 synthetic demonstrations for each of 10 tasks; the organizers introduce domain randomization during training and evaluation to reduce the sim-to-real gap.
 - **Failure-stage diagnosis**: Trained π0.5 baselines across all 10 tasks using four H100 GPUs and an RTX 4090. Sparse rewards made failure stages difficult to identify; added rollout sensors and subtask checks to localize the main failures in low-success-rate tasks.
@@ -45,6 +45,7 @@ Zepeng Lin, Yifan Liu, Wei Shan, Yinuo Ge, Muyang Li
 ### TwinPath Wrist
 **June–September 2026 · ICRA 2027 submission, under review; second author**  
 Haitao Jiang, Yifan Liu, Yanbin Chang, Wei Zhang, Xiaogang Xiong, Hui Cheng†
+[Code](https://github.com/YifanLiu-AI/slai-manipulation)
 
 - **End-to-end real-to-real infrastructure**: Independently built teleoperation, data collection, and π0.5/Diffusion Policy imitation-learning workflows from scratch for UR5e, a custom wrist, and different end effectors, using equipment shared by RAPID (Prof. Hui Cheng) and MMLab (Prof. Ping Luo). Supported four configurations—Wuji hand, custom wrist + Wuji hand, gripper, and custom wrist + gripper—for **fixed-versus-enabled wrist experiments**.
 - **Teleoperation**: Used a SpaceMouse to control the 6-DoF UR5e, wuji-retargeting (the official adaptation of dex-retargeting) for the 20-DoF Wuji hand, and a custom master wrist built by a senior lab member for the 2-DoF follower wrist.
