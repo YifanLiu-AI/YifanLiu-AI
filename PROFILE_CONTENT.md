@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <samp><a href="https://yifanliu-ai.github.io">website ↗</a> &nbsp; / &nbsp; <a href="https://wui.me/blog">research blog ↗</a> &nbsp; / &nbsp; <a href="mailto:yifanliu.ai@gmail.com">email ↗</a> &nbsp; / &nbsp; <a href="https://yifanliu-ai.github.io/assets/files/curriculum_vitae.pdf">English CV (PDF) ↗</a></samp>
+  <samp><a href="https://yifanliu-ai.github.io">website ↗</a> &nbsp; / &nbsp; <a href="https://wui.me/blog">research blog ↗</a> &nbsp; / &nbsp; <a href="mailto:yifanliu.ai@gmail.com">email ↗</a></samp>
 </p>
 
 <br>
