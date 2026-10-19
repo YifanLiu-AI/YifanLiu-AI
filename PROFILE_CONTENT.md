@@ -18,6 +18,10 @@ My work focuses on robot learning, simulation-to-real workflows, and bimanual an
 
 <img src="assets/section-experience.svg?v=serif-3" alt="Research &amp; Internship Experience" width="900">
 
+<img src="assets/sjtu-emblem-red.png" alt="Shanghai Jiao Tong University" height="28"> &nbsp; **Shanghai Jiao Tong University · DengLab**
+
+Research Assistant &nbsp; · &nbsp; **October 2026–present**
+
 <img src="https://raw.githubusercontent.com/YifanLiu-AI/wui-homepage/main/assets/img/slai-logo-balanced.png" alt="SLAI" height="28"> &nbsp; **Shenzhen Loop Area Institute (SLAI) · RAPID Lab**
 
 Research Assistant Intern &nbsp; · &nbsp; **June–September 2026**  

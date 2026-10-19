@@ -11,6 +11,8 @@
 
 <div>
 <img src="assets/section-experience-compact.svg" alt="Experience" width="900"><br>
+<picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/YifanLiu-AI/YifanLiu-AI/main/assets/serif-compact/sjtu-denglab-mobile.svg"><img src="assets/serif-compact/sjtu-denglab.svg" alt="Shanghai Jiao Tong University · DengLab Research Assistant · October 2026–present" width="900"></picture>
+<br>
 <picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/YifanLiu-AI/YifanLiu-AI/main/assets/serif-compact/slai-icon-slai-mobile.svg"><img src="assets/serif-compact/slai-icon-slai.svg" alt="Shenzhen Loop Area Institute (SLAI) · RAPID Lab Research Assistant Intern · June–September 2026 Advisor: Prof. Hui Cheng, School of Computer Science and Engineering, Sun Yat-sen University." width="900"></picture>
 <br>
 <picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/YifanLiu-AI/YifanLiu-AI/main/assets/serif-compact/miaa-mobile.svg"><img src="assets/serif-compact/miaa.svg" alt="South China University of Technology · MIAA Lab Undergraduate Research Student · November 2025–May 2026 Advisor: Assoc. Prof. Huiping Zhuang, Shien-Ming Wu School of Intelligent Engineering." width="900"></picture>
