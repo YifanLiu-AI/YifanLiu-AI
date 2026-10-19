@@ -11,11 +11,11 @@
 
 <div>
 <img src="assets/section-experience-compact.svg" alt="Experience" width="900"><br>
-<picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/YifanLiu-AI/YifanLiu-AI/main/assets/serif-compact/sjtu-denglab-mobile-intern-mono.svg"><img src="assets/serif-compact/sjtu-denglab-intern-mono.svg" alt="Shanghai Jiao Tong University · DengLab Intern @ SJTU · October 2026–present Advisor: Assoc. Prof. Zhijie Deng, School of Computer Science, Shanghai Jiao Tong University." width="900"></picture>
+<picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/YifanLiu-AI/YifanLiu-AI/main/assets/serif-compact/sjtu-denglab-mobile-intern-mono.svg?v=20261020-final"><img src="assets/serif-compact/sjtu-denglab-intern-mono.svg?v=20261020-final" alt="Shanghai Jiao Tong University · DengLab Intern @ SJTU · October 2026–present Advisor: Assoc. Prof. Zhijie Deng, School of Computer Science, Shanghai Jiao Tong University." width="900"></picture>
 <br>
-<picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/YifanLiu-AI/YifanLiu-AI/main/assets/serif-compact/slai-icon-slai-mobile-intern-mono.svg"><img src="assets/serif-compact/slai-icon-slai-intern-mono.svg" alt="Shenzhen Loop Area Institute · RAPID Lab Intern @ SLAI · June–September 2026 Advisor: Prof. Hui Cheng, School of Computer Science and Engineering, Sun Yat-sen University." width="900"></picture>
+<picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/YifanLiu-AI/YifanLiu-AI/main/assets/serif-compact/slai-icon-slai-mobile-intern-mono.svg?v=20261020-final"><img src="assets/serif-compact/slai-icon-slai-intern-mono.svg?v=20261020-final" alt="Shenzhen Loop Area Institute · RAPID Lab Intern @ SLAI · June–September 2026 Advisor: Prof. Hui Cheng, School of Computer Science and Engineering, Sun Yat-sen University." width="900"></picture>
 <br>
-<picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/YifanLiu-AI/YifanLiu-AI/main/assets/serif-compact/scut-miaa-mobile-intern-mono.svg"><img src="assets/serif-compact/scut-miaa-intern-mono.svg" alt="South China University of Technology · MIAA Lab Intern @ SCUT · November 2025–May 2026 Advisor: Assoc. Prof. Huiping Zhuang, Shien-Ming Wu School of Intelligent Engineering." width="900"></picture>
+<picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/YifanLiu-AI/YifanLiu-AI/main/assets/serif-compact/scut-miaa-mobile-intern-mono.svg?v=20261020-final"><img src="assets/serif-compact/scut-miaa-intern-mono.svg?v=20261020-final" alt="South China University of Technology · MIAA Lab Intern @ SCUT · November 2025–May 2026 Advisor: Assoc. Prof. Huiping Zhuang, Shien-Ming Wu School of Intelligent Engineering." width="900"></picture>
 <br>
 </div>
 <br>
