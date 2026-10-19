@@ -23,7 +23,7 @@ My work focuses on robot learning, simulation-to-real workflows, and bimanual an
 Intern @ SJTU &nbsp; · &nbsp; **October 2026–present**  
 Advisor: Assoc. Prof. Zhijie Deng, School of Computer Science, Shanghai Jiao Tong University.
 
-<img src="assets/sysu-emblem.png" alt="Sun Yat-sen University emblem" height="28"> &nbsp; **Shenzhen Loop Area Institute (SLAI) · RAPID Lab**
+<img src="assets/sysu-emblem.png" alt="Sun Yat-sen University emblem" height="28"> &nbsp; **Shenzhen Loop Area Institute · RAPID Lab**
 
 Intern @ SLAI &nbsp; · &nbsp; **June–September 2026**  
 Advisor: Prof. Hui Cheng, School of Computer Science and Engineering, Sun Yat-sen University.
