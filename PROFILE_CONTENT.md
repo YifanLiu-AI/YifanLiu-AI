@@ -28,7 +28,7 @@ Advisor: Assoc. Prof. Zhijie Deng, School of Computer Science, Shanghai Jiao Ton
 Research Assistant Intern &nbsp; · &nbsp; **June–September 2026**  
 Advisor: Prof. Hui Cheng, School of Computer Science and Engineering, Sun Yat-sen University.
 
-<img src="assets/scut-gzic-emblem.png" alt="SCUT Guangzhou International Campus emblem" height="28"> &nbsp; **South China University of Technology · MIAA Lab**
+<img src="assets/scut-emblem.png" alt="South China University of Technology emblem" height="28"> &nbsp; **South China University of Technology · MIAA Lab**
 
 Undergraduate Research Student &nbsp; · &nbsp; **November 2025–May 2026**  
 Advisor: Assoc. Prof. Huiping Zhuang, Shien-Ming Wu School of Intelligent Engineering.

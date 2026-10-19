@@ -15,7 +15,7 @@
 <br>
 <picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/YifanLiu-AI/YifanLiu-AI/main/assets/serif-compact/slai-icon-slai-mobile.svg?v=20261019-school-emblems"><img src="assets/serif-compact/slai-icon-slai.svg?v=20261019-school-emblems" alt="Shenzhen Loop Area Institute (SLAI) · RAPID Lab Research Assistant Intern · June–September 2026 Advisor: Prof. Hui Cheng, School of Computer Science and Engineering, Sun Yat-sen University." width="900"></picture>
 <br>
-<picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/YifanLiu-AI/YifanLiu-AI/main/assets/serif-compact/miaa-mobile.svg?v=20261019-school-emblems"><img src="assets/serif-compact/miaa.svg?v=20261019-school-emblems" alt="South China University of Technology · MIAA Lab Undergraduate Research Student · November 2025–May 2026 Advisor: Assoc. Prof. Huiping Zhuang, Shien-Ming Wu School of Intelligent Engineering." width="900"></picture>
+<picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/YifanLiu-AI/YifanLiu-AI/main/assets/serif-compact/miaa-mobile.svg?v=20261019-scut-final"><img src="assets/serif-compact/miaa.svg?v=20261019-scut-final" alt="South China University of Technology · MIAA Lab Undergraduate Research Student · November 2025–May 2026 Advisor: Assoc. Prof. Huiping Zhuang, Shien-Ming Wu School of Intelligent Engineering." width="900"></picture>
 <br>
 </div>
 <br>
