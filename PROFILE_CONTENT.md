@@ -20,14 +20,15 @@ My work focuses on robot learning, simulation-to-real workflows, and bimanual an
 
 <img src="assets/sjtu-emblem-red.png" alt="Shanghai Jiao Tong University" height="28"> &nbsp; **Shanghai Jiao Tong University · DengLab**
 
-Research Assistant &nbsp; · &nbsp; **October 2026–present**
+Research Assistant &nbsp; · &nbsp; **October 2026–present**  
+Advisor: Assoc. Prof. Zhijie Deng, School of Computer Science, Shanghai Jiao Tong University.
 
-<img src="https://raw.githubusercontent.com/YifanLiu-AI/wui-homepage/main/assets/img/slai-logo-balanced.png" alt="SLAI" height="28"> &nbsp; **Shenzhen Loop Area Institute (SLAI) · RAPID Lab**
+<img src="assets/sysu-emblem.png" alt="Sun Yat-sen University emblem" height="28"> &nbsp; **Shenzhen Loop Area Institute (SLAI) · RAPID Lab**
 
 Research Assistant Intern &nbsp; · &nbsp; **June–September 2026**  
 Advisor: Prof. Hui Cheng, School of Computer Science and Engineering, Sun Yat-sen University.
 
-<img src="https://raw.githubusercontent.com/YifanLiu-AI/wui-homepage/main/assets/img/miaa-logo.webp" alt="MIAA Lab" height="28"> &nbsp; **South China University of Technology · MIAA Lab**
+<img src="assets/scut-gzic-emblem.png" alt="SCUT Guangzhou International Campus emblem" height="28"> &nbsp; **South China University of Technology · MIAA Lab**
 
 Undergraduate Research Student &nbsp; · &nbsp; **November 2025–May 2026**  
 Advisor: Assoc. Prof. Huiping Zhuang, Shien-Ming Wu School of Intelligent Engineering.
