@@ -1,31 +1,41 @@
-# Yifan Liu
+<p>
+  <img src="assets/header.svg?v=serif-3" alt="Yifan Liu — Embodied AI, Bimanual Manipulation, Dexterous Manipulation" width="900">
+</p>
 
-[Website](https://yifanliu-ai.github.io) · [Research blog](https://wui.me/blog) · [Email](mailto:yifanliu.ai@gmail.com)
+<p>
+  <samp><a href="https://yifanliu-ai.github.io">website ↗</a> &nbsp; / &nbsp; <a href="https://wui.me/blog">research blog ↗</a> &nbsp; / &nbsp; <a href="mailto:yifanliu.ai@gmail.com">email ↗</a></samp>
+</p>
 
-## About
+<br>
+
+<img src="assets/section-about.svg?v=serif-3" alt="About" width="900">
 
 I'm a B.Eng. student in the **School of Mechanical and Automotive Engineering, South China University of Technology (SCUT)**, with an expected graduation date of **June 2028**.
 
 My work focuses on robot learning, simulation-to-real workflows, and bimanual and dexterous manipulation. I build and evaluate policies, investigate task failures, and develop teleoperation and rollout-data pipelines.
 
-## Experience
+<br>
 
-**Shanghai Jiao Tong University · DengLab**
+<img src="assets/section-experience.svg?v=serif-3" alt="Research &amp; Internship Experience" width="900">
+
+<img src="assets/sjtu-emblem-red.png" alt="Shanghai Jiao Tong University" height="28"> &nbsp; **Shanghai Jiao Tong University · DengLab**
 
 Intern @ SJTU &nbsp; · &nbsp; **October 2026–present**  
 Advisor: Assoc. Prof. Zhijie Deng, School of Computer Science, Shanghai Jiao Tong University.
 
-**Shenzhen Loop Area Institute · RAPID Lab**
+<img src="assets/sysu-emblem.png" alt="Sun Yat-sen University emblem" height="28"> &nbsp; **Shenzhen Loop Area Institute · RAPID Lab**
 
 Intern @ SLAI &nbsp; · &nbsp; **June–September 2026**  
 Advisor: Prof. Hui Cheng, School of Computer Science and Engineering, Sun Yat-sen University.
 
-**South China University of Technology · MIAA Lab**
+<img src="assets/scut-emblem.png" alt="South China University of Technology emblem" height="28"> &nbsp; **South China University of Technology · MIAA Lab**
 
 Intern @ SCUT &nbsp; · &nbsp; **November 2025–May 2026**  
 Advisor: Assoc. Prof. Huiping Zhuang, Shien-Ming Wu School of Intelligent Engineering.
 
-## Projects
+<br>
+
+<img src="assets/section-projects.svg?v=serif-3" alt="Selected Research Projects" width="900">
 
 ### NeurIPS 2026 RoboSyn Challenge
 **August–October 2026 · Ongoing**  
@@ -59,18 +69,23 @@ Haitao Jiang, Yifan Liu, Yanbin Chang, Wei Zhang, Xiaogang Xiong, Hui Cheng†
 - **Data flywheel**: The official dataset provides 25 demonstrations for each of 40 seen garments; limited data hindered generalization. Adding low-quality simulation demonstrations collected by human experts through master-arm teleoperation reduced success. Independently developed a multi-round RFT data flywheel that fed policy rollouts back into training. Under compute constraints, the team generated roughly 100 rollout trajectories, achieving success-rate gains of **20% on the training set and 2% on the test set**. The champion's post-competition report described similar components using tens of thousands of rollouts.
 - **Trajectory filtering**: Clustered rollout episodes by completion time and reward to reduce redundant successful trajectories while retaining longer successes with corrective behavior.
 
-## Skills
+<br>
+
+<img src="assets/section-skills.svg?v=serif-3" alt="Technical Skills" width="900">
 
 - **Simulation & Robot Learning:** Isaac Lab / Isaac Sim, π0.5, Diffusion Policy; SFT, RFT, data flywheels.
 - **Real Robots:** Real-to-real, real-to-sim, SpaceMouse teleoperation & data collection, dex-retargeting.
 - **Robot Platforms:** Manipulators: LeRobot SO-101, AgileX PiPER, UR5e; Dexterous Hand: Wuji Hand1.
 - **Agent Collaboration:** Claude Code, Codex.
 
-## Education
+<br>
 
-**South China University of Technology**  
+<img src="assets/section-education.svg?v=serif-3" alt="Education &amp; Honors" width="900">
+
+<img src="https://raw.githubusercontent.com/YifanLiu-AI/wui-homepage/main/assets/img/scut-emblem.png" alt="SCUT" height="28"> &nbsp; **South China University of Technology**  
 School of Mechanical and Automotive Engineering · B.Eng. candidate  
 **September 2024–June 2028 (expected)**
+
 
 - **2026.08:** National Safety Science and Engineering Practice Innovation Competition (Software Track), **National Third Prize** | Team Lead
 - **2025.09:** “Shenzhen Cup” Mathematical Modeling Challenge, **Guangdong Region Third Prize** | Team Lead
